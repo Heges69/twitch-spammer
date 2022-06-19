@@ -1,0 +1,23 @@
+{
+  "name": "twitch-spammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heges69/twitch-spammer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heges69/twitch-spammer/issues"
+  },
+  "homepage": "https://github.com/Heges69/twitch-spammer#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
